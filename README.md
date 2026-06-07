@@ -208,5 +208,5 @@ Link : https://research-intelligence-agent.onrender.com/
 ---
 
 ## 👤 Author
-**Esvanth Mohankumar** | MSc Computing (AI), National College of Ireland,Dublin,Ireland  
+**Karthick Subramanian || Esvanth Mohankumar** | MSc Computing (AI), National College of Ireland,Dublin,Ireland  
 Agents League Hackathon 2026 | Reasoning Agents Track | Foundry IQ
